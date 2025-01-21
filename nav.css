@@ -32,4 +32,32 @@
     color: black;
 }
     
+ /* for tablet */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+
+    .navbar{
+    background-color: #e699ff;
+    color: #0c0c0c;
+    flex-wrap: wrap;
+    }
+    .f1{
+    font-size: 100%;
+    }
+    .home{
+        margin-left: 20%;
+    }
+    .search{
+    display: none;
+    }
+    .menu-icon{
+        display: none;
+    }
+    .menu-list{
+    display: none;
+    }
+    .hamburger-menu{
+    display: none;
+    }
+    }
     
+       
