@@ -177,15 +177,15 @@
     }
     /* for big screen*/
 @media screen and (min-width: 1200px) and (max-width: 3000px){
-    .img2{
-    display: none;
-    align-items: center;
-    }
-    .menu-list{
-    display: none;
-    }
-    .hamburger-menu{
-    display: none;
-    }
-    }
+.img2{
+display: none;
+align-items: center;
+}
+.menu-list{
+display: none;
+}
+.hamburger-menu{
+display: none;
+}
+}
         
