@@ -1,0 +1,11 @@
+.navbar{
+    background-color:  #e699ff;
+    height: 90px;
+    width: 100%;
+    position: sticky;
+    width: 100%;
+    z-index: 100%;
+    color: rgb(14, 15, 15);
+    display: flex;
+    align-items: center;
+}
